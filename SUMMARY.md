@@ -38,6 +38,7 @@
   * [（五）其他设置](qi-ruan-jian-she-zhi/wu-qi-ta-she-zhi.md)
 * [八、标定分类](ba-biao-ding-fen-lei/README.md)
   * [（一）标定准备工作](ba-biao-ding-fen-lei/yi-biao-ding-zhun-bei-gong-zuo.md)
+  * [（二）T+L标定](ba-biao-ding-fen-lei/er-t+l-biao-ding.md)
   * [（二）基础标定](ba-biao-ding-fen-lei/er-ji-chu-biao-ding.md)
   * [（三）更新标定](ba-biao-ding-fen-lei/san-geng-xin-biao-ding.md)
   * [（四）原点标定](ba-biao-ding-fen-lei/si-yuan-dian-biao-ding.md)
